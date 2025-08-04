@@ -30,14 +30,12 @@ This script is a basic **folder organizer** that sorts files in a selected direc
 }
 
 
-🚧 Notes / To-Do
-Add error handling (e.g. if the folder doesn’t exist)
+## 🚧 Notes / To-Do
+1. Add error handling (e.g. if the folder doesn’t exist)
+2. Let users customize categories from the script
+3. Possibly build a GUI for easier use in the future
 
-Let users customize categories from the script
-
-Possibly build a GUI for easier use in the future
-
-🔍 Why I Made This
+## 🔍 Why I Made This
 I'm a CS student / self-taught dev just trying to get more comfortable with Python by solving real problems—even if they're small. This was a great way to practice and see how modules like os and shutil can automate stuff I do manually every day.
 
 Thanks for checking it out! ✌️
