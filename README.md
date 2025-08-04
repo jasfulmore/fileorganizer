@@ -28,6 +28,8 @@ This script is a basic **folder organizer** that sorts files in a selected direc
   "Video": [".mp4", ".mov"],
   "Scripts": [".py", ".sh"]
 }
+
+
 🚧 Notes / To-Do
 Add error handling (e.g. if the folder doesn’t exist)
 
